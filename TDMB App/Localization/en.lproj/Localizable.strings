@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  TDMB App
+
+  Created by Abdurrahman Karaoluk on 24.06.2022.
+  
+*/
+" mins" = " mins";
+"Budget:\n" = "Budget:\n";
+"Revenue:\n" = "Revenue:\n";
+"Recommendations" = "Recommendations";
+"Cast" = "Cast";
+"Production Companies:\n" = "Production Companies:\n";
+"My Favorites" = "My Favorites";
+"Popular Movies" = "Popular Movies";
+"Not exist for device language." = "Not exist for device language.";
+"Website Not Found" = "Website Not Found";
